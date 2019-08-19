@@ -11,4 +11,9 @@ end
 def link 
   help = "It's Dangerous To Go Alone! Take This."
   puts help
+end 
+
+def any_phrase
+  catch = "Do A Barrel Roll!"
+  puts catch
 end
