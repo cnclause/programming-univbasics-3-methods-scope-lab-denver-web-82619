@@ -13,7 +13,7 @@ def link
   puts help
 end 
 
-def any_phrase
-  catchphrase = "Do A Barrel Roll!"
-  puts catchphrase
+def any_phrase(phrase)
+  
+ 
 end
